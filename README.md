@@ -1,6 +1,6 @@
-# Performance Analysis of Dynamic Equilibria in Joint Path Selection and Congestion Control
+# Performance Analysis of Dynamic Equilibria in Joint Path Selection and Congestion Control in Path-Aware Networks
 
-This repository contains the simulation code and analytical models for the paper "Performance Analysis of Dynamic Equilibria in Joint Path Selection and Congestion Control".
+This repository contains the simulation code and analytical models for the paper "Performance Analysis of Dynamic Equilibria in Joint Path Selection and Congestion Control in Path-Aware Networks".
 
 ## Overview
 The project implements a discrete-event simulator to validate theoretical findings regarding network oscillations caused by greedy path selection combined with loss-based congestion control. It includes:
@@ -22,4 +22,5 @@ The standard Jupyter Notebook file (`mpcc_dynamics.ipynb`) is also included in t
 ## Usage
 To run the core simulation and generate the validation plots locally:
 ```bash
-python run_simulation.py
+./run_all.sh
+```
