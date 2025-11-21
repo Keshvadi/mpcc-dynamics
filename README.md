@@ -14,7 +14,7 @@ An interactive version of the simulation is available in Google Colab, allowing 
 
 The standard Jupyter Notebook file (`mpcc_dynamics.ipynb`) is also included in this repository for local use.
 
-## Requirements
+## Requirementsope
 * Python 3.8+
 * NumPy
 * Matplotlib
